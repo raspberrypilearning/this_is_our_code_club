@@ -12,6 +12,7 @@ steps:
   - title: Animate
   - title: Record and play sound
   - title: Export it
+      completion:
       - internal
       - external
   - title: Mentor instructions

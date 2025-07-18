@@ -7,12 +7,12 @@ copyedit: false
 last_tested: "2025-01-01"
 steps:
   - title: Add a sprite
-      completion:
-        - engaged      
+    completion:
+      - engaged      
   - title: Animate
   - title: Record and play sound
   - title: Export it
-      completion:
-        - internal
-        - external
+    completion:
+      - internal
+      - external
   - title: Mentor instructions

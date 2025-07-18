@@ -1,4 +1,4 @@
-## Animate
+## Mentor instructions
 
 --- task ---
 

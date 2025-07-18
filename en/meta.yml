@@ -6,14 +6,12 @@ listed: false
 copyedit: false
 last_tested: "2025-01-01"
 steps:
-  - title: What you will make
-  - title: Step title
-    completion:
+  - title: Add a sprite
+      completion:
       - engaged      
-  - title: Next step title
-    completion:
+  - title: Animate
+  - title: Record and play sound
+  - title: Export it
       - internal
-  - title: Challenge
-    challenge: true
-    completion:
       - external
+  - title: Mentor instructions

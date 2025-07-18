@@ -1,42 +1,39 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+## Add a sprite
 
-A brief description - one or two sentences. 
+--- task ---
 
---- print-only ---
-![ALT TEXT](images/IMAGE.png)
---- /print-only ---
+Open the starter project at [rpf.io/scratch-frame](http://rpf.io/scratch-frame)
 
---- no-print ---
+--- /task ---
 
-Editor embed 
+You need an image that represents **you or your club**.
+It could be:
+- your favorite team's mascot
+- a picture of your pet
+- a photo of your club room. 
 
---- /no-print ---
+**If you are using a photo, then make sure there is nothing in the image that could identify you. You could use [ResizePixel](https://www.resizepixel.com/) to pixelate a photo.**
 
---- no-print ---
-Video embed
+--- task ---
 
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
+Paint a picture or upload an image.
+![](images/paint-upload.png)
 
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
+--- /task ---
 
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
-</div>
+--- task ---
 
---- /no-print ---
+Resize and position the image so that if fits inside the black frame on the stage.
 
-### You will need:
-- a
-- b
-- c
+![resize](images/resize.gif)
+
+--- /task ---
+
+--- task ---
+
+Rename the sprite.
+
+![](images/rename.png)
+
+--- /task ---
+

@@ -8,11 +8,11 @@ last_tested: "2025-01-01"
 steps:
   - title: Add a sprite
       completion:
-      - engaged      
+        - engaged      
   - title: Animate
   - title: Record and play sound
   - title: Export it
       completion:
-      - internal
-      - external
+        - internal
+        - external
   - title: Mentor instructions
